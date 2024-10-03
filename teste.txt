@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 a g 
 c
 q
 2
 
+=======
+a
+b
+
+c
+>>>>>>> nova-branch
